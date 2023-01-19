@@ -1,2 +1,2 @@
 # welcome-app!
-[mosin](https://user-images.githubusercontent.com/76263118/213469310-40905271-1239-4375-acbc-44c8b06e6c77.gif)
+![mosin2](https://user-images.githubusercontent.com/76263118/213470477-6db05706-6f6c-41aa-afb1-8b963f221eae.gif)
