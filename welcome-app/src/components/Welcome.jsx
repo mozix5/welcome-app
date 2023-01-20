@@ -1,7 +1,7 @@
 import React from "react";
 
 const Welcome = (props) => (
-  <div>
+  <div className="margin-top">
     <h1>Hey ! {props.nameValue}</h1>
     <h2>Welcome to LPU</h2>
   </div>
